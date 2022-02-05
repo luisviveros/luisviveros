@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @luisviveros
+- 👀 I’m interested in the area of Full stack development, embedded systems and control systems
+- 🌱 I’m currently learning a course of Full stack developed by microsoft
+- 💞️ I’m looking to collaborate better help the world
+- 📫 How to reach me luisviveros9810@outlook.com and +52 4427998087
+
+<!---
+luisviveros/luisviveros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
